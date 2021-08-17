@@ -5,6 +5,9 @@
 ![npm-version](https://img.shields.io/npm/v/react-native-imagemin-asset-plugin)
 ![npm](https://img.shields.io/npm/dm/react-native-imagemin-asset-plugin.svg)
 
+> **Metro Asset plugin for compressing images in React Native.**
+
+<img width="414px" src="./example.png" alt="example" />
 
 ## Installation
 
